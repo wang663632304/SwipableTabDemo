@@ -12,8 +12,8 @@ import android.widget.Button;
 
 public class ViewPagerTabButton extends Button {
 	
-	private int lineColor = 0xFF6F8FC7;
-	private int lineColorSelected = 0xFF6F8FC7;
+	private int lineColor = 0xFF006400;				//Color of the ViewPagerTabButton
+	private int lineColorSelected = 0xFF006400;
 	
 	private int lineHeight = 2;
 	private int lineHeightSelected = 6;

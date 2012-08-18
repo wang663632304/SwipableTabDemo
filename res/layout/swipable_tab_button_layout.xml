@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.jaxvy.swipabletabdemo.core.ViewPagerTabButton xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res/com.astuetz.viewpager.extensions.example"
+<com.jaxvy.swipabletabdemo.core.ViewPagerTabButton 
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="0dip"
     android:layout_height="wrap_content"
     android:layout_weight="1"
@@ -8,6 +8,6 @@
     android:gravity="center"
     android:paddingBottom="16dip"
     android:paddingTop="15dip"
-    android:textColor="#FFF"
-    android:textSize="12sp"
+    android:textColor="#006400"
+    android:textSize="14dip"
     android:textStyle="bold" />
